@@ -21,7 +21,7 @@
 
 1. 克隆仓库到本地：
    ```bash
-   git clone https://github.comwzxzhuxi/Personal-Blog---Backend.git
+   git clone https://github.comw/zxzhuxi/Personal-Blog---Backend.git
 2. 进入项目目录：
    ```bash
    cd Personal-Blog---Backend-master
