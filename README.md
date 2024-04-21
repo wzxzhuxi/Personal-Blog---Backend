@@ -23,9 +23,11 @@
    ```bash
    git clone https://github.comwzxzhuxi/Personal-Blog---Backend.git
 2. 进入项目目录：
+   ```bash
    cd Personal-Blog---Backend-master
-3. 安装依赖：
+4. 安装依赖：
+   ```bash
    ./mvnw install
-4. 运行项目：
+6. 运行项目：
+   ```bash
    ./mvnw spring-boot:run
-
